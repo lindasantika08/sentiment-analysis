@@ -31,7 +31,7 @@ function formatChannelName(channel: string): string {
 </script>
 
 <template>
-  <div class="mb-4">
+  <div class="">
     <select
       class="w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white"
       :value="modelValue" @change="onChange">

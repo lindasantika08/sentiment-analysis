@@ -115,7 +115,7 @@ const chartOptions = computed(() => ({
     <div v-if="series && series.length > 0 && hasValidData">
       <apexchart 
         type="bar" 
-        height="185"
+        height="235"
         :options="chartOptions" 
         :series="series"
       ></apexchart>
