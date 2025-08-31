@@ -1,3 +1,5 @@
+( Link Deploy Aplikasi Dashboard Analisis Sentimen: https://sentiment-analysis-jade-nine.vercel.app/ )
+
 Proyek ini adalah aplikasi Dashboard Analisis Sentimen berbasis Vue3 + Typescript + Pinia. Dashboard menampilkan visualisasi data berupa Pie Chart, Bar Chart, Column Chart, Histogram, serta Tabel Sentimen yang bisa difilter dan dicari.
 
 Cara Menjalankan Proyek:
