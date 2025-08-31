@@ -26,6 +26,8 @@ Asumsi:
 
 Berikut contoh tampilan dari dekstop dan handphone.
 
-![WhatsApp Image 2025-08-31 at 22 46 27_1fc559ab](https://github.com/user-attachments/assets/94dc76d0-e98c-4c35-b8f4-d02efe6743ee)
 <img width="1920" height="1025" alt="Screenshot (4180)" src="https://github.com/user-attachments/assets/6b1e615b-b1ce-4030-bc5f-09a0cd760119" />
+
+![WhatsApp Image 2025-08-31 at 22 46 27_1fc559ab](https://github.com/user-attachments/assets/94dc76d0-e98c-4c35-b8f4-d02efe6743ee)
+
 ![WhatsApp Image 2025-08-31 at 22 46 27_28d16d4d](https://github.com/user-attachments/assets/21bbbad6-c7ee-433a-bfcc-ee673147dad7)
